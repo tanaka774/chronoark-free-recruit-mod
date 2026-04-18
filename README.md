@@ -12,9 +12,9 @@ but if you upload or use with in-game workshop you need to adapt this game's nat
 and here is an explanation about the native mod style.  
 
 download harmony manually from here https://github.com/pardeike/Harmony/releases and use `net472/0Harmony.dll`  
-and, when using Harmony 2.4.2 with Chrono Ark native mods, always use in code:  
-harmony.UnpatchAll(harmony.Id);  
-Not UnpatchSelf() (doesn't exist) and not parameterless UnpatchAll() (obsolete).  
+and, when using Harmony 2.4.2 with Chrono Ark native mods, use in code:  
+`harmony.UnpatchAll(harmony.Id);`  
+Not `UnpatchSelf()` (doesn't exist) and not parameterless `UnpatchAll()` (obsolete).  
 
 ## file structures
 
