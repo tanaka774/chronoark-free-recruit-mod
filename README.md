@@ -1,8 +1,5 @@
 https://steamcommunity.com/sharedfiles/filedetails/?id=3709278799
 
-I refuse this game not letting me compose my dream team freely!
-
-
 # a few points of developing chronoark native mod
 
 *this explanation is just for my case. It's possible this doesn't apply to other one.  
