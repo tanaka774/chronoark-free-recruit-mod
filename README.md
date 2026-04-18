@@ -5,7 +5,8 @@ I refuse this game not letting me compose my dream team freely!
 
 # a few points of developing chronoark native mod
 
-*this explanation is just for my case. It's possible this doesn't apply to other one.
+*this explanation is just for my case. It's possible this doesn't apply to other one.  
+and more like gameplay patch, not adding new custom character. for that there should be a great tutorial already!
 
 ## some dependencies and version
 
